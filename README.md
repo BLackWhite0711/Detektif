@@ -20,6 +20,9 @@
  - https://wa.me/62895617047193
  - instagram : noprian0_0
 
+# Video 
+https://youtu.be/N4FOI4apzmk
+
 # info
 
  - Setiap Script pasti Ada Gunanya
