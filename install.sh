@@ -106,7 +106,7 @@ perl /usr/share/Detektif/Detektif.pl" '${1+"$@"}' > "Detektif";
 if [ -d "/usr/share/Detektif" ] ;
 then
 echo -e "$red [$green+$red]$off Tool Successfully Installed And Will Start In 5s!";
-echo -e "$red [$green+$red]$off You can execute tool by typing Th3inspector"
+echo -e "$red [$green+$red]$off You can execute tool by typing Detektif"
 sleep 5;
 Detektif
 else
