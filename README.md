@@ -19,3 +19,8 @@
  - https://www.youtube.com/channel/UCJWgAlqKsytbWqYrYhAPWvw
  - https://wa.me/62895617047193
  - instagram : noprian0_0
+
+# info
+
+ - Setiap Script pasti Adda Gunanya
+ - Gabungkan lah & Berimajinasi lah
