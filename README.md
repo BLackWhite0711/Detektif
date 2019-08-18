@@ -22,5 +22,5 @@
 
 # info
 
- - Setiap Script pasti Adda Gunanya
+ - Setiap Script pasti Ada Gunanya
  - Gabungkan lah & Berimajinasi lah
